@@ -1,0 +1,79 @@
+.logo__footer {
+    display: flex;
+justify-content: flex-start;
+    align-items: flex-end;
+    width: 98px;
+height: 42px;
+
+}
+.nav__list-footer {
+    display: flex;
+    justify-content: space-evenly;
+    width: 320px;
+height: 19px;
+margin-top: 6px;
+margin-left: -105px;
+
+}
+.nav__link-footer {
+    color: #fff;
+}
+.nav__link-footer:hover {
+    color: #F5170E;
+}
+.nav-footer {
+    width: 264px;
+    height: 19px;
+    
+}
+.nav__item-footer {
+    display: flex;
+    width: 355px;
+    height: 19px;
+    font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 19px;
+display: flex;
+align-items: center;
+color: #fff;
+}
+.contact__phone-footer {
+    color: #fff;
+}
+.socials {
+    display: flex;
+    width: 174px;
+ height: 36px;
+ justify-content: space-between;
+margin-right: -90px;
+margin-top: 5px;
+ }
+.contacts__footer {
+    display: flex;
+flex-direction: column-reverse;
+margin-right: 0px;
+margin-top: 20px;
+}
+
+.contacts__dropdown-footer {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    display: flex;
+    align-items: center;  
+    color: #9A9A9A;   
+    justify-content: flex-end;
+ 
+}
+.contact__phone-footer {
+    width: 200px;
+    height: 35px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 26px;
+    line-height: 35px;
+    display: flex;
+    color: #FFFFFF;
+}    
